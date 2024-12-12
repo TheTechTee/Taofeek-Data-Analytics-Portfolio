@@ -41,5 +41,5 @@ This portfolio reflects my passion and continuous growth in analytics.
 📧 Let’s Connect!
 I’d love to chat about data, collaborate, or just hear from you!
 
-LinkedIn: Taofeek Adeniran
+LinkedIn: https://www.linkedin.com/in/taofeek-adeniran-753566293
 Email: Adeniran0505@hotmail.com | Toksroger@gmail.com
