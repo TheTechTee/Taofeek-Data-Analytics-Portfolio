@@ -27,8 +27,8 @@ SQL is the backbone of data manipulation, and I’ve used it to extract meaningf
 📁 Data Cleaning and Transformation: Used SQL to clean and organize messy datasets for seamless analysis.
 Explore SQL Projects
 
-4. Tableau Projects (Coming Soon!)
-As I continue growing, I’m diving into Tableau for advanced data visualizations. My upcoming project will showcase:
+4. Tableau Projects 
+As I continue growing, I’m diving into Tableau for advanced data visualizations.
 
 
 🌟 Why This Portfolio?
